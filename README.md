@@ -1,8 +1,1 @@
--  Hello, I’m @pats2014
--  I am Full Stack developer/ Actuarial science graduate
--  I’m looking to collaborate on any machine learning model and web application development
-
-<!---
-pats2014/pats2014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Accomplished Data Scientist with a passion for delivering valuable data through analytical functions and data retrieval methods. Bringing forth the ability to synthesize quantitative information and interact effectively with colleagues and clients. Committed to helping companies advance by helping them to develop strategic plans based on predictive modeling and findings. Bringing forth a proven track record of analyzing complex data sets and serving as a strong advisor.
